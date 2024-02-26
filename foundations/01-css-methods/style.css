@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 div {
     background-color: red;
+=======
+div{
+    background-color: red;
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+    color: white;
+>>>>>>> 063bee9a2b7445ea909d62dcaa7466e332d750a8
 }

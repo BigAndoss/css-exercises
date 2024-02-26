@@ -1,0 +1,16 @@
+.one,
+.three{
+    background-color: palevioletred;
+}
+.one{
+    font-size: small;
+}
+
+#two{
+    color: blue;
+    font-size: large;
+}
+#four{
+    background-color: palegreen;
+    font-weight: bold;
+}
